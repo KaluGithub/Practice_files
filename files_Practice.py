@@ -2,7 +2,7 @@
 # By Mona
 
 # Definition: A file is a Sequence of data stored in Memory
-# To use a file, create and object of type file
+# To use a file, create an object of type file
 
 # file is a data type
 # <varname>:string
@@ -23,7 +23,7 @@ for line in open(myFile): # For each line in the file, do something
     print()
 
 
-# Creating a txt file form user input
+# Creating a txt file from user input
 
 FILENAME = "test1.txt"
 dataFile = open("test1.txt", "r")

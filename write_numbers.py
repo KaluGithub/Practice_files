@@ -1,5 +1,5 @@
 # Program that takes users input and writes to file
-# B Mona
+# By Mona
 
 # 2. Write a python program that asks the user for the name of a file, and then repeatedly
 # asks the user to enter a number, entering the number ‘0’ when finished. Output each of

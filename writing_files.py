@@ -2,7 +2,8 @@
 # Writing Files Practice
 # By Mona
 
-# Q 1. Write a python program that reads in a text file and prints all the lines back out with a
+# Q 1. Write a python program that reads in a text file
+# and prints all the lines back out with a
 # dash in front.
 
 
